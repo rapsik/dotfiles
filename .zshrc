@@ -21,3 +21,7 @@ alias normi="echo 'norminette -R CheckForbiddenSourceHeader' ; norminette -R Che
 alias ccc="echo 'cc -Wall -Wextra -Werror' ; cc -Wall -Wextra -Werror"
 alias cccg="echo 'cc -g -Wall -Wextra -Werror' ; cc -g -Wall -Wextra -Werror"
 alias pu="git push origin master"
+
+alias francinette=/Users/vjorma/francinette/tester.sh
+
+alias paco=/Users/vjorma/francinette/tester.sh
